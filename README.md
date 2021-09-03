@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://geekflare.com/wp-content/uploads/2019/07/developer-illustration.png" height="150px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://ouch-cdn2.icons8.com/hV6MOILIFBtGRcj4n2WyWlvVlKAx9gJFGcgjMy5eCrg/rs:fit:1216:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDc3/L2UyMTMwZGI2LWM1/NjEtNDMzMC04MDYw/LWFmNzQ3NDVmNzkw/Yi5zdmc.png" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pratipal</h1>
 <h3 align="center">I'm a passionate Web Developer.</h3>
