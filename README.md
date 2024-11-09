@@ -1,7 +1,7 @@
 <a href="#" ><div align="center"><img  width="60%" height="100%" src="https://ouch-cdn2.icons8.com/hV6MOILIFBtGRcj4n2WyWlvVlKAx9gJFGcgjMy5eCrg/rs:fit:1216:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDc3/L2UyMTMwZGI2LWM1/NjEtNDMzMC04MDYw/LWFmNzQ3NDVmNzkw/Yi5zdmc.png" /></div></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pratipal</h1>
-<h3 align="center">I'm a passionate Web Developer.</h3>
+<h3 align="center">I'm a passionate Business Analyst.</h3>
 
 
 ## 🙋‍♂️ About Me
